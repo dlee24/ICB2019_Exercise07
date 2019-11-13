@@ -1,3 +1,5 @@
+#Logan Thayer and Diane Lee
+
 #getting every odd row from a dataframe
 
 every.odd <- function(x){
