@@ -1,3 +1,5 @@
+#Logan Thayer and Diane Lee
+
 #ex7_script2. write functions to complete these tasks. Operate on iris, which is iris.csv read into global env
 iris <- read.csv("iris.csv")
 
